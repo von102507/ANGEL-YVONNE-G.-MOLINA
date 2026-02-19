@@ -1,0 +1,16 @@
+fullname = "ANGEL YVONNE G. MOLINA"
+age = 18
+height_in_meter = 1.48
+currently_working = False
+
+print("fullname", fullname)
+print(type(fullname))
+
+print("\nAGE", age)
+print(type(age))
+
+print("\nHEIGHT_IN_METER", height_in_meter)
+print(type(height_in_meter))
+
+print("\nCurrently_working?", currently_working)
+print(type(currently_working))
